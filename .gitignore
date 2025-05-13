@@ -363,6 +363,7 @@ $RECYCLE.BIN/
 
 # NodeJS and docusaurus
 node_modules
+build
 .yarn
 package-lock.json
 
