@@ -365,7 +365,6 @@ $RECYCLE.BIN/
 node_modules
 build
 .yarn
-package-lock.json
 
 .eslintcache
 
