@@ -1,0 +1,8 @@
+aj-stein:
+  name: A.J. Stein
+  title: Super Cool Example Cloud Founder
+  url: https://github.com/aj-stein
+  image_url: https://github.com/aj-stein.png
+  page: true
+  socials:
+    github: aj-stein
