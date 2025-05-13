@@ -17,7 +17,7 @@ jobs:
       - id: setup-node
         uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
         with:
-          node-version-file: .tool-versions
+          node-version: 22.15.0
           cache: npm
       - id: deps
         name: Install dependencies
