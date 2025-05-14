@@ -87,11 +87,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Help',
           items: [
             {
-              label: 'Services',
-              to: '/docs/services',
+              label: 'Docs',
+              to: '/docs/',
             },
           ],
         },
