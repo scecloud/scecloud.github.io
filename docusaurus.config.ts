@@ -118,7 +118,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Super Cool Example Cloud Volunteers built this with Docusaurus.`,
+      copyright: `Built in the public domain with cool open-source software.`,
     },
     prism: {
       theme: prismThemes.github,
